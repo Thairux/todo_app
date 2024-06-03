@@ -1,0 +1,9 @@
+todo_app/
+│
+├── app.py
+├── templates/
+│   ├── base.html
+│   ├── index.html
+├── static/
+│   ├── styles.css
+└── todo.db
